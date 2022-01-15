@@ -1,0 +1,121 @@
+[
+	 {
+	   "Coin": "BTC",
+	   "Name": "Bitcoin",
+	   "Price": 64139.83,
+	   "Percentage24H": "0.47%",
+	   "Percentage7D": "5.43%",
+	   "MarketCap": 1210461656117,
+	   "Volume24H": 29894898633,
+	   "CirculatingSupply": 18872231,
+	   "MaxSupply": 21000000,
+	   "Last7Days": "[64125.80, 64398.60, 64134.50, 64806.70, 64932.60, 66904.40, 67527.90]"
+	 },
+	 {
+	   "Coin": "ETH",
+	   "Name": "Ethereum",
+	   "Price": 4646.35,
+	   "Percentage24H": "-0.21%",
+	   "Percentage7D": "4.46%",
+	   "MarketCap": 549793627996,
+	   "Volume24H": 14523394832,
+	   "CirculatingSupply": 118328047,
+	   "MaxSupply": false,
+	   "Last7Days": "[4685.56, 4625.59, 4644.61, 4667.31, 4720.87, 4634.03, 4731.83]"
+	 },
+	 {
+	   "Coin": "BNB",
+	   "Name": "Binance Coin",
+	   "Price": 647.73,
+	   "Percentage24H": "4.09%",
+	   "Percentage7D": "-4.55%",
+	   "MarketCap": 108041796220,
+	   "Volume24H": 2077207621,
+	   "CirculatingSupply": 166801148,
+	   "MaxSupply": false,
+	   "Last7Days": "[650.92,650.10,626.64,629.89,615.28,635.19]"
+	 },
+	 {
+	   "Coin": "USDT",
+	   "Name": "Tether",
+	   "Price": 0.9999,
+	   "Percentage24H": "-0.02%",
+	   "Percentage7D": "-0.11%",
+	   "MarketCap": 73855848803,
+	   "Volume24H": 65597573314,
+	   "CirculatingSupply": 73859886039,
+	   "MaxSupply": false,
+	   "Last7Days": "[0.9981,0.998,0.9981,0.998,0.998,1.00]"
+	 },
+	 {
+	   "Coin": "SOL",
+	   "Name": "Solana",
+	   "Price": 236.09,
+	   "Percentage24H": "3.03%",
+	   "Percentage7D": "-6.29%",
+	   "MarketCap": 71556795233,
+	   "Volume24H": 2184694308,
+	   "CirculatingSupply": 303085983,
+	   "MaxSupply": false,
+	   "Last7Days": "[230.69,225.08,221.25,229.75,218.39,237.90]"
+	 },
+	 {
+	   "Coin": "ADA",
+	   "Name": "Cardano",
+	   "Price": 2.05,
+	   "Percentage24H": "-0.42%",
+	   "Percentage7D": "3.90%",
+	   "MarketCap": 68225986232,
+	   "Volume24H": 2077146657,
+	   "CirculatingSupply": 33298801078,
+	   "MaxSupply": 45000000000,
+	   "Last7Days": "[2.01,2.02,1.99,2.06,1.94,2.11]"
+	 },
+	 {
+	   "Coin": "XRP",
+	   "Name": "XRP",
+	   "Price": 1.19,
+	   "Percentage24H": "-0.37%",
+	   "Percentage7D": "4.75%",
+	   "MarketCap": 56059002495,
+	   "Volume24H": 2890762268,
+	   "CirculatingSupply": 47158974920,
+	   "MaxSupply": 100000000000,
+	   "Last7Days": "[1.19  ,1.19   ,1.19   ,1.22   ,1.19   ,1.26   ,1.28]"
+	 },
+	 {
+	   "Coin": "DOT",
+	   "Name": "Polkadot",
+	   "Price": 46.89,
+	   "Percentage24H": "-2.41%",
+	   "Percentage7D": "-7.37%",
+	   "MarketCap": 46309745265,
+	   "Volume24H": 1273301680,
+	   "CirculatingSupply": 987579315,
+	   "Last7Days": "[46.40,47.13,45.88,47.65,46.87,50.78]"
+	 },
+	 {
+	   "Coin": "USDC",
+	   "Name": "USD Coin",
+	   "Price": 0.9989,
+	   "Percentage24H": "0.16%",
+	   "Percentage7D": "-0.12%",
+	   "MarketCap": 34386866605,
+	   "Volume24H": 2847499611,
+	   "CirculatingSupply": 34424351584,
+	   "MaxSupply": false,
+	   "Last7Days": "[0.9996,1.00,0.9993,0.9999,0.9995,1.00]"
+	 },
+	 {
+	   "Coin": "DOGE",
+	   "Name": "Dogecoin",
+	   "Price": 0.2594,
+	   "Percentage24H": "1.31%",
+	   "Percentage7D": "-0.54%",
+	   "MarketCap": 34263451676,
+	   "Volume24H": 944681126,
+	   "CirculatingSupply": 132099945393,
+	   "MaxSupply": false,
+	   "Last7Days": "[0.2629,0.2617,0.2594,0.2612,0.2557,0.2735]"
+	 }
+]

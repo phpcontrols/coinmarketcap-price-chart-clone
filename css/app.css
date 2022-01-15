@@ -1,0 +1,92 @@
+body {
+    padding: 5px;
+}
+
+h1 {
+    padding: 5px 15px 15px 5px;
+    text-align: center;
+}
+
+
+
+/* white header and height */
+.ui-jqgrid-hbox{
+    background: white;
+    height: 30px;
+    border-bottom: 2px solid #e1e1e1;
+}
+
+/* update default font-size and color */
+.ui-jqgrid tr.jqgrow td {
+    font-size:1.2em !important;
+    color: black !important
+}
+
+/* align all header to right */
+.ui-jqgrid-hbox table th {
+    text-align: right !important;
+    padding-right: 5px !important;
+}
+
+/* align Name and Last 7 Days center */
+.ui-jqgrid-hbox table th#CoinMarket_Name,
+.ui-jqgrid-hbox table th#CoinMarket_Last7Days{
+    text-align: center !important;
+} 
+
+.ui-jqgrid-hbox table th .ui-jqgrid-cell-wrapper{
+    text-align: right;
+    font-size: 1.25em !important;
+}
+table {
+    font-family: 'Inter', sans-serif;
+    border: 0 !important;
+}
+/* bold and black header and coin name column */
+table th .ui-jqgrid-cell-wrapper, .name .ui-jqgrid-cell-wrapper {
+    font-weight: 600;
+    color: black;
+}
+/* set image width (smaller) */
+.iconImg{
+    width:30px !important;
+}
+.symbol {
+    color: #666;
+    font-weight: 400;
+}
+.volume24hTotalCoin {
+    color:  #666;
+    font-size: .9em;
+}
+/* remove default table border */
+.ui-jqgrid-bootstrap.ui-jqgrid {
+    border: 0 !important
+}
+/* increase row height */
+table tr {
+    height: 75px;
+}
+/* remove footer */
+.panel-footer.ui-jqgrid-pager.ui-jqgrid-bootstrap-corner-bottom {
+    display: none;
+}
+
+/* bar chart representing % of current coin circulating supply */
+.maxsupply-bar {
+    height: 6px;
+    border-radius: 3px;
+    background: rgb(239, 242, 245);
+    width: 160px;
+}
+.maxsupply-bar .percentage-of-maxsupply {
+    height: 6px;
+    border-radius: 3px;
+    background: rgb(207, 214, 228);
+    top: 0px;
+    left: 0px;
+}
+.circulating-supply {
+    display: block;
+    padding-bottom: 3px;
+}
