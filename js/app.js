@@ -9,7 +9,7 @@ function nameFormatter (cellValue, options, rowData){
 
     if (cellValue==0) return 'N/A';
 
-    return `<img src="images/icons/${rowData['Coin']}.png" class="iconImg" />  ${cellValue}  <span class="symbol">${rowData['Coin']}</span>`; 
+    return `<img src="images/icons/${rowData['Coin'].toLowerCase()}.png" class="iconImg" />  ${cellValue}  <span class="symbol">${rowData['Coin']}</span>`; 
 
 }
 
