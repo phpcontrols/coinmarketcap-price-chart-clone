@@ -25,7 +25,7 @@ require_once("phpGrid/conf.php");
 </head>
 <body>
 
-<h1>CoinMarketCap.com Price Chart Clone <br>w/ Real-time Data via WebSockets & PHP</h1>
+<h1>CoinMarketCap.com Clone <br>w/ Real-time Data via WebSockets & PHP</h1>
 
 <a class="github-fork-ribbon" href="https://github.com/phpcontrols/coinmarketcap-price-chart-clone" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>
 
