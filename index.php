@@ -21,10 +21,13 @@ require_once("phpGrid/conf.php");
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/app.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.3/gh-fork-ribbon.min.css" />
 </head>
 <body>
 
-<h1>Coinmarketcap.com Price Chart Clone</h1>
+<h1>CoinMarketCap.com Price Chart Clone <br>w/ Real-time Data via WebSockets & PHP</h1>
+
+<a class="github-fork-ribbon" href="https://github.com/phpcontrols/coinmarketcap-price-chart-clone" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>
 
 <?php
 $url = "data/coinmarket_top10.json";
