@@ -6,9 +6,10 @@
 // coinmarketcap.com
 
 // Binance websocket trade stream API
-https://docs.binance.org/api-reference/dex-api/ws-streams.html
+// https://docs.binance.org/api-reference/dex-api/ws-streams.html
 
-use phpCtrl\C_DataGrid;
+// namespace is only required in phpGrid full version 
+// use phpCtrl\C_DataGrid;
 
 require_once("phpGrid/conf.php");
 ?>
